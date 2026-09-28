@@ -1,0 +1,14 @@
+[project]
+name = "manim-mcp-server"
+version = "0.1.0"
+description = "An MCP server that lets AI assistants create and render Manim mathematical animations."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+dependencies = [
+    "manim>=0.18",
+    "mcp>=1.2.0",
+]
+
+# [project.urls]
+# Add Homepage / Issues URLs once the repository URL is final.
