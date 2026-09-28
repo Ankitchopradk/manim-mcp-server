@@ -73,7 +73,7 @@ class Demo(Scene):
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/<your-username>/manim-mcp-server.git
+git clone https://github.com/Ankitchopradk/manim-mcp-server.git
 cd manim-mcp-server
 ```
 
